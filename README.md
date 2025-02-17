@@ -21,7 +21,8 @@
   ## 🌍 Images descriptions
 
   #### Page d'Acceuil 
-![Acceuil](https://github.com/user-attachments/assets/9825fe85-f7ae-461f-b158-3d3d8094e9aa)
+![Capture d’écran 2025-02-16 144740](https://github.com/user-attachments/assets/da215cf3-f466-4ba3-975c-bc5cf3e283f1)
+
 ![Capture d’écran 2025-02-16 162217](https://github.com/user-attachments/assets/f6db725a-b724-4391-8b80-3debc473b0e6)
 
   #### Différents visuels graphiques, tableaux et KPI
