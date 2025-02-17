@@ -24,12 +24,7 @@
 ![Acceuil](https://github.com/user-attachments/assets/9825fe85-f7ae-461f-b158-3d3d8094e9aa)
 
   #### Différents visuels graphiques, tableaux et KPI
-![Global](https://github.com/user-attachments/assets/be4502da-e297-4dd5-8b70-691576781f82)
-![Comparaison](https://github.com/user-attachments/assets/0af77414-5c2b-47c1-b293-bbafe9efd8a3)
-![Visuel 1](https://github.com/user-attachments/assets/a1e130d0-24bd-41c5-8b1c-c431b6018f8f)
-![Capture d’écran 2025-02-16 161721](https://github.com/user-attachments/assets/cfffbb4a-cd00-4bd2-8ae7-2adc73c2e058)
-![Capture d’écran 2025-02-16 161322](https://github.com/user-attachments/assets/a8ed6dbd-43dd-4ed4-8b97-211979dec2bb)
-![Visuel](https://github.com/user-attachments/assets/789ab3f4-10e8-4999-aa00-0259522ac06e)
+
 
   #### RLS
 ![RLS 3](https://github.com/user-attachments/assets/570d4fda-627c-4ca0-85f3-f6b619551aeb)
