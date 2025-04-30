@@ -1,4 +1,5 @@
   # 📊 Analyse de données - Chiffres d'Affaire et Contrôles Techniques
+<br>
   
   ## ➡️ Description 
 
@@ -9,6 +10,7 @@
   Afin de garantir une mise à jour régulière et précise des données, le rapport s'actualise automatiquement deux fois par jour en utilisant la passerelle de Power BI. De plus, pour assurer une disponibilité et une sécurité optimales, le rapport est hébergé sur un serveur dédié.
 
   Ce rapport vise à fournir une vision claire et consolidée des performances financières et opérationnelles de l'entreprise, permettant une prise de décision éclairée et stratégique. 
+<br>
 
   ## 🛠 Outils
 
@@ -17,6 +19,7 @@
   - Excel
   - Postgre SQL
   - Power Automate
+<br>
 
   ## 🌍 Images descriptions
 
